@@ -1,2 +1,2 @@
 # R-Studio
-DataCamp ggplot2 packages
+Self-Learning Rstudio platform details
